@@ -6,4 +6,5 @@ and returns whether one is greater than, equal, or less than the other. As an ex
 Please provide all test cases you could think of.
 
 Solution:
+VersionCompare library is can be used to compare to version strings and returns which ever version string is greater. And if two version strings are equal then returns 'EQ'.
 
