@@ -11,7 +11,7 @@ If the version any of the format is incorrect then it raises InvalidVersionForma
 VersionCompare library does not use other third party library to get the result. It uses simple arithmetic operators to decide which version string is greater.
 
 Tast cases covered:
-1> Version string input 1 is gerater than Version string input 2
+1> Version string input 1 is gerater than Version string input 2 </br>
 2> Version string input 2 is gerater than Version string input 1
 3> Version string input 1 is equal with Version string input 2
 
