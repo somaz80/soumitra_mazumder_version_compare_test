@@ -35,8 +35,6 @@ class VersionCompare:
     def compare_versions_input(self, version_a_list, version_b_list):
         position = 0
 
-        print(len(version_a_list))
-        print(len(version_b_list))
         # a if a < b else b
         try:
             # set the loop counter to the smallest of versions
