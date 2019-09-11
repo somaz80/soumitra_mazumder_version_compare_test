@@ -1,4 +1,4 @@
-# soumitra_mazumder_version_compare_test
+# Version String Compair:
 
 <b>Problem:</b></br>
 The goal of this question is to write a software library that accepts 2 version string as input 
